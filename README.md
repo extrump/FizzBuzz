@@ -1,3 +1,3 @@
 # FizzBuzz
 
-This service was so annoyng I had to write some words
+I made this change with the help of GitEye client
